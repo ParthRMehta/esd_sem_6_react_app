@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/esd_sem_6_react_app/static/css/main.073c9b0a.css",
+    "main.js": "/esd_sem_6_react_app/static/js/main.76a95870.js",
+    "static/js/787.bc7d429a.chunk.js": "/esd_sem_6_react_app/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/esd_sem_6_react_app/index.html",
+    "main.073c9b0a.css.map": "/esd_sem_6_react_app/static/css/main.073c9b0a.css.map",
+    "main.76a95870.js.map": "/esd_sem_6_react_app/static/js/main.76a95870.js.map",
+    "787.bc7d429a.chunk.js.map": "/esd_sem_6_react_app/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.76a95870.js"
+  ]
+}
